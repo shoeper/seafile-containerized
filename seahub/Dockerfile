@@ -48,7 +48,7 @@ pillow==11.0.0 \
 captcha==0.6.0 \
 pyjwt==2.9.0 \
 mysqlclient==2.2.5 \
-django==4.2.16 \
+django==4.2.19 \
 django-pylibmc==0.6.1 \
 django-simple-captcha==0.6.0 \
 pycryptodome==3.21.0 \
